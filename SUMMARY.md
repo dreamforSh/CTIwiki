@@ -11,6 +11,7 @@
     * [活木](cai-liao-lie-biao/yi-ji-cai-liao/huo-mu.md)
     * [活石](cai-liao-lie-biao/yi-ji-cai-liao/huo-shi.md)
     * [燧石](cai-liao-lie-biao/yi-ji-cai-liao/sui-shi.md)
+    * [海晶石](cai-liao-lie-biao/yi-ji-cai-liao/hai-jing-shi.md)
     * [骨头](cai-liao-lie-biao/yi-ji-cai-liao/gu-tou.md)
     * [铜](cai-liao-lie-biao/yi-ji-cai-liao/tong.md)
     * [下界岩](cai-liao-lie-biao/yi-ji-cai-liao/xia-jie-yan.md)
