@@ -5,6 +5,8 @@
   * [0.35](geng-xin-ri-zhi/0.35.md)
   * [0.34](geng-xin-ri-zhi/0.34.md)
   * [0.33](geng-xin-ri-zhi/0.33.md)
+  * [0.31](geng-xin-ri-zhi/0.31.md)
+  * [0.30](geng-xin-ri-zhi/0.30.md)
 * [模组列表](mo-zu-lie-biao.md)
 * [🍏 材料列表](cai-liao-lie-biao/README.md)
   * [一级材料](cai-liao-lie-biao/yi-ji-cai-liao/README.md)
