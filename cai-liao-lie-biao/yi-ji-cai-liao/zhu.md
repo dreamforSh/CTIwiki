@@ -1,5 +1,5 @@
 ---
-description: 常见的一级近程材料
+description: minecraft:bamboo
 ---
 
 # 竹
