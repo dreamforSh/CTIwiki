@@ -24,6 +24,8 @@ _**科技类模组   \[ 19 ]**_
 
 [_\[IE\] 沉浸工程 **Immersive Engineering**_](https://www.mcmod.cn/class/463.html)       [ _\[AE2\] 应用能源2 **Applied Energistics 2**_](https://www.mcmod.cn/class/260.html)
 
+[_ME Requester_ ](https://www.mcmod.cn/class/10066.html)                       [_\[EAE\] AE2扩展  **ExtendedAE**_](https://www.mcmod.cn/class/11534.html)
+
 
 
 
