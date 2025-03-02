@@ -26,6 +26,12 @@ layout:
 
 [_**点此下载**_](https://bbsmc.net/modpack/cti)
 
+_**官方QQ群（闲聊）：**&#x37;61155624      **答疑**：698798364_
+
+**本wiki正在积极更新，如果想为此wiki提交贡献或反馈问题请在此提交issue ：**[**https://github.com/ShadowsofDreams/CTIwiki/issues**](https://github.com/ShadowsofDreams/CTIwiki/issues)
+
+
+
 **简介：**
 
 本整合包是以[匠魂3](https://www.mcmod.cn/class/3725.html)为核心开发的的**中高度魔改**以科技侧为主要游玩维度的整合包。
