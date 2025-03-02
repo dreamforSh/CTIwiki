@@ -22,7 +22,7 @@ _**科技类模组   \[ 19 ]**_
 
 [_机械动力 **Create**_ ](https://www.mcmod.cn/class/2021.html)           [_\[CCK\]机械动力：中央厨房Create Central Kitche_](https://www.mcmod.cn/class/9151.html)
 
-_\[_[_IE\] 沉浸工程 **Immersive Engineering**_](https://www.mcmod.cn/class/463.html)       [ _\[AE2\] 应用能源2 **Applied Energistics 2**_](https://www.mcmod.cn/class/260.html)
+[_\[IE\] 沉浸工程 **Immersive Engineering**_](https://www.mcmod.cn/class/463.html)       [ _\[AE2\] 应用能源2 **Applied Energistics 2**_](https://www.mcmod.cn/class/260.html)
 
 
 
