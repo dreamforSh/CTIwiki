@@ -7,6 +7,6 @@
   * [二级材料](cai-liao-lie-biao/er-ji-cai-liao.md)
   * [三级材料](cai-liao-lie-biao/san-ji-cai-liao.md)
   * [四级材料](cai-liao-lie-biao/si-ji-cai-liao.md)
-* [匠魂部件](jiang-hun-bu-jian.md)
+* [匠魂工具](jiang-hun-gong-ju.md)
 * [匠魂强化](jiang-hun-qiang-hua.md)
 * [许可-License](xu-ke-license.md)
