@@ -20,6 +20,8 @@ _**科技类模组**_
 
 [_\[MekG\] 通用机械发电机 **Mekanism Generators**_ ](https://www.mcmod.cn/class/1323.html)         [_Mekanism-Evolution_](https://www.mcmod.cn/class/10499.html)
 
+[_机械动力 **Create**_ ](https://www.mcmod.cn/class/2021.html)           [_\[CCK\]机械动力：中央厨房Create Central Kitchen_](https://www.mcmod.cn/class/9151.html)
+
 
 
 
