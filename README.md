@@ -18,13 +18,13 @@ layout:
     visible: true
 ---
 
-# 工匠：技艺革新中文维基
+# 工匠：技艺革新 中文维基
 
 [**工匠：技艺革新**](https://www.mcmod.cn/modpack/989.html)   **英文名：**&#x43;onstruct：Technological Innovation  简称：CTI
 
 **开发版本    &#x20;**&#x20;_Minecraft 1.19.2 forge 43.4.2     类型：modpack  目前状态：0.35   测试版_  [ _历史版本_](https://bbsmc.net/modpack/cti/versions)
 
-[_**点此下载**_](https://bbsmc.net/modpack/cti)
+[_**点此下载**_](https://bbsmc.net/modpack/cti) _**(客户端)**_       [   _**服务端下载**_](https://github.com/ShadowsofDreams/CTI-server/releases)
 
 _**官方QQ群（闲聊）：**&#x37;61155624      **答疑群**：698798364_
 
