@@ -18,6 +18,8 @@ _**科技类模组**_
 
 [_Gravitational Modulating Additional Unit_](https://www.mcmod.cn/class/10425.html)           [_通用机械武器  **Mekanism: Weapons**_](https://www.mcmod.cn/class/12800.html)
 
+[_\[MekG\] 通用机械发电机 **Mekanism Generators**_ ](https://www.mcmod.cn/class/1323.html)         [_Mekanism-Evolution_](https://www.mcmod.cn/class/10499.html)
+
 
 
 
