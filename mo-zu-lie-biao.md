@@ -4,7 +4,7 @@ description: 官方模组列表
 
 # 模组列表
 
-_**科技类模组**_
+_**科技类模组   \[ 19 ]**_
 
 [_Powah! Rearchitected_ ](https://www.mcmod.cn/class/6605.html)      [      _\[IF\]工业先锋 Industrial Foregoing_  ](https://www.mcmod.cn/class/979.html)
 
@@ -20,7 +20,9 @@ _**科技类模组**_
 
 [_\[MekG\] 通用机械发电机 **Mekanism Generators**_ ](https://www.mcmod.cn/class/1323.html)         [_Mekanism-Evolution_](https://www.mcmod.cn/class/10499.html)
 
-[_机械动力 **Create**_ ](https://www.mcmod.cn/class/2021.html)           [_\[CCK\]机械动力：中央厨房Create Central Kitchen_](https://www.mcmod.cn/class/9151.html)
+[_机械动力 **Create**_ ](https://www.mcmod.cn/class/2021.html)           [_\[CCK\]机械动力：中央厨房Create Central Kitche_](https://www.mcmod.cn/class/9151.html)
+
+_\[_[_IE\] 沉浸工程 **Immersive Engineering**_](https://www.mcmod.cn/class/463.html)       [ _\[AE2\] 应用能源2 **Applied Energistics 2**_](https://www.mcmod.cn/class/260.html)
 
 
 
