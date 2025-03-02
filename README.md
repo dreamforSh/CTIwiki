@@ -22,11 +22,11 @@ layout:
 
 [**工匠：技艺革新**](https://www.mcmod.cn/modpack/989.html) **英文名：**&#x43;onstruct：Technological Innovation 简称：CTI
 
-**开发版本** _Minecraft 1.19.2 forge 43.4.2 类型：modpack 目前状态：0.35 测试版_ [_历史版本_](https://bbsmc.net/modpack/cti/versions)
+**开发版本** _Minecraft 1.19.2 forge 43.4.2 类型：modpack 目前状态：0.35 测试版_    [_<mark style="color:purple;">**历史版本**</mark>_](https://bbsmc.net/modpack/cti/versions)
 
 [_**点此下载**_](https://bbsmc.net/modpack/cti) _**(客户端)**_ [_**服务端下载**_](https://github.com/ShadowsofDreams/CTI-server/releases)
 
-_<mark style="color:red;">**官方QQ群（闲聊）：**</mark><mark style="color:red;">761155624</mark>_ _<mark style="color:red;">**答疑群**</mark><mark style="color:red;">：698798364</mark>_
+_<mark style="color:red;">**官方QQ群（闲聊）：**</mark><mark style="color:red;">761155624</mark>_            _<mark style="color:red;">**答疑群**</mark><mark style="color:red;">：698798364</mark>_
 
 <mark style="color:red;">**本wiki正在积极更新，如果想为此wiki提交贡献或反馈问题请在此提交issue ：**</mark>
 
