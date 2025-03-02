@@ -26,7 +26,7 @@ layout:
 
 [_**点此下载**_](https://bbsmc.net/modpack/cti)
 
-_**官方QQ群（闲聊）：**&#x37;61155624      **答疑**：698798364_
+_**官方QQ群（闲聊）：**&#x37;61155624      **答疑群**：698798364_
 
 **本wiki正在积极更新，如果想为此wiki提交贡献或反馈问题请在此提交issue ：**[**https://github.com/ShadowsofDreams/CTIwiki/issues**](https://github.com/ShadowsofDreams/CTIwiki/issues)
 

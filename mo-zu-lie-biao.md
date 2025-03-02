@@ -13,3 +13,11 @@ _**科技类模组**_
 [_热力系列   **Thermal Series**_](https://www.mcmod.cn/class/3824.htm)           [ _\[TI\] 热力革新   **Thermal Innovation**_](https://www.mcmod.cn/class/1126.html)
 
 [_热力运输   **Thermal Locomotion**_](https://www.mcmod.cn/class/3237.html)       [_机械动力：矿石开掘   **Create Ore Excavation**_](https://www.mcmod.cn/class/7300.html)
+
+[_Ad Astra!_](https://www.mcmod.cn/class/7395.html)         [ _Bigger AE2_](https://www.mcmod.cn/class/14676.html)          [ _\[Mek\] 通用机械   **Mekanism**_](https://www.mcmod.cn/class/187.html)
+
+
+
+
+
+\
