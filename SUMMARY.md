@@ -6,6 +6,8 @@
 * [材料列表](cai-liao-lie-biao/README.md)
   * [一级材料](cai-liao-lie-biao/yi-ji-cai-liao/README.md)
     * [竹](cai-liao-lie-biao/yi-ji-cai-liao/zhu.md)
+    * [木](cai-liao-lie-biao/yi-ji-cai-liao/mu.md)
+    * [岩石](cai-liao-lie-biao/yi-ji-cai-liao/yan-shi.md)
   * [二级材料](cai-liao-lie-biao/er-ji-cai-liao.md)
   * [三级材料](cai-liao-lie-biao/san-ji-cai-liao.md)
   * [四级材料](cai-liao-lie-biao/si-ji-cai-liao.md)
