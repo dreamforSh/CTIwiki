@@ -32,12 +32,12 @@ _**科技类模组   \[ 24 ]**_
 
 
 
-_魔法类模组  \[  ]_\
+_**魔法类模组  \[ 2 ]**_\
 
 
-[_\[PE\]等价交换重制版 **ProjectE**_](https://www.mcmod.cn/class/353.html)        [ _\[BOT\] 植物魔法 **Botania**_](https://www.mcmod.cn/class/332.html)
+[_\[PE\]等价交换重制版 **ProjectE**_](https://www.mcmod.cn/class/353.html)        [ _\[BOT\] 植物魔法 **Botania**_](https://www.mcmod.cn/class/332.html)&#x20;
 
-
+#### [_神话植物学 **MythicBotany**_](https://www.mcmod.cn/class/3644.html)             [_神秘遗物 **Enigmatic Legac**_**y**](https://www.mcmod.cn/class/2239.html)
 
 
 
