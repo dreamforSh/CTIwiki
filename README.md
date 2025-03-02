@@ -22,7 +22,7 @@ layout:
 
 [**工匠：技艺革新**](https://www.mcmod.cn/modpack/989.html)   **英文名：**&#x43;onstruct：Technological Innovation  简称：CTI
 
-**开发版本    &#x20;**&#x20;_Minecraft 1.19.2 forge 43.4.2     类型：modpack  目前状态：0.34测试版_
+**开发版本    &#x20;**&#x20;_Minecraft 1.19.2 forge 43.4.2     类型：modpack  目前状态：0.35   测试版_  [ _历史版本_](https://bbsmc.net/modpack/cti/versions)
 
 [_**点此下载**_](https://bbsmc.net/modpack/cti)
 
