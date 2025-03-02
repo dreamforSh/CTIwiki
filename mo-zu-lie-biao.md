@@ -4,7 +4,7 @@ description: 官方模组列表
 
 # 模组列表
 
-_**科技类模组   \[ 19 ]**_
+_**科技类模组   \[ 24 ]**_
 
 [_Powah! Rearchitected_ ](https://www.mcmod.cn/class/6605.html)      [      _\[IF\]工业先锋 Industrial Foregoing_  ](https://www.mcmod.cn/class/979.html)
 
@@ -25,6 +25,17 @@ _**科技类模组   \[ 19 ]**_
 [_\[IE\] 沉浸工程 **Immersive Engineering**_](https://www.mcmod.cn/class/463.html)       [ _\[AE2\] 应用能源2 **Applied Energistics 2**_](https://www.mcmod.cn/class/260.html)
 
 [_ME Requester_ ](https://www.mcmod.cn/class/10066.html)                       [_\[EAE\] AE2扩展  **ExtendedAE**_](https://www.mcmod.cn/class/11534.html)
+
+[_应用能源：通用机械附属 **Applied Mekanistics**_](https://www.mcmod.cn/class/6055.html)         [_\[EC2F\] AE Additions - ExtraCells2 Fork_](https://www.mcmod.cn/class/5628.html)
+
+[_\[CC\&A\] Create Crafts & Additions_](https://www.mcmod.cn/class/3437.html)
+
+
+
+_魔法类模组  \[  ]_\
+
+
+[_\[PE\]等价交换重制版 **ProjectE**_](https://www.mcmod.cn/class/353.html)        [ _\[BOT\] 植物魔法 **Botania**_](https://www.mcmod.cn/class/332.html)
 
 
 
