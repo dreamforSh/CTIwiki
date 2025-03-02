@@ -43,6 +43,8 @@
     * [可燃冰](cai-liao-lie-biao/er-ji-cai-liao/ke-ran-bing.md)
     * [铁](cai-liao-lie-biao/er-ji-cai-liao/tie.md)
     * [苍翠](cai-liao-lie-biao/er-ji-cai-liao/cang-cui.md)
+    * [红绿柱石](cai-liao-lie-biao/er-ji-cai-liao/honglzhu-shi.md)
+    * [振晶](cai-liao-lie-biao/er-ji-cai-liao/zhen-jing.md)
   * [三级材料](cai-liao-lie-biao/san-ji-cai-liao.md)
   * [四级材料](cai-liao-lie-biao/si-ji-cai-liao.md)
 * [匠魂工具](jiang-hun-gong-ju.md)
