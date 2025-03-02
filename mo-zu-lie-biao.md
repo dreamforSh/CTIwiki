@@ -16,6 +16,8 @@ _**科技类模组**_
 
 [_Ad Astra!_](https://www.mcmod.cn/class/7395.html)         [ _Bigger AE2_](https://www.mcmod.cn/class/14676.html)          [ _\[Mek\] 通用机械   **Mekanism**_](https://www.mcmod.cn/class/187.html)
 
+[_Gravitational Modulating Additional Unit_](https://www.mcmod.cn/class/10425.html)           [_通用机械武器  **Mekanism: Weapons**_](https://www.mcmod.cn/class/12800.html)
+
 
 
 
