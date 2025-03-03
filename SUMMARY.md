@@ -23,7 +23,7 @@
     * [紫颂](cai-liao-lie-biao/yi-ji-cai-liao/zi-song.md)
     * [皮革](cai-liao-lie-biao/yi-ji-cai-liao/pi-ge.md)
     * [线](cai-liao-lie-biao/yi-ji-cai-liao/xian.md)
-    * [藤曼](cai-liao-lie-biao/yi-ji-cai-liao/teng-man.md)
+    * [藤蔓](cai-liao-lie-biao/yi-ji-cai-liao/teng-man.md)
   * [二级材料](cai-liao-lie-biao/er-ji-cai-liao/README.md)
     * [竹钢](cai-liao-lie-biao/er-ji-cai-liao/zhu-gang.md)
     * [铋](cai-liao-lie-biao/er-ji-cai-liao/bi.md)
