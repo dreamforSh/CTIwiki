@@ -1,5 +1,16 @@
 ---
 description: 本许可使用CC-BY-NC-ND4.0并进行规范化说明
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 许可-License
