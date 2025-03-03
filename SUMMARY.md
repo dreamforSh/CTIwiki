@@ -90,6 +90,8 @@
     * [劈刀](jiang-hun-gong-ju/kuan-xing-gong-ju/pi-dao.md)
 * [匠魂盔甲](jiang-hun-kui-jia/README.md)
   * [简易头盔](jiang-hun-kui-jia/jian-yi-tou-kui.md)
+  * [简易胸甲](jiang-hun-kui-jia/jian-yi-xiong-jia.md)
+  * [旅行者护目镜](jiang-hun-kui-jia/l-xing-zhe-hu-mu-jing.md)
 * [匠魂强化](jiang-hun-qiang-hua/README.md)
   * [升级强化](jiang-hun-qiang-hua/sheng-ji-qiang-hua/README.md)
     * [通用强化](jiang-hun-qiang-hua/sheng-ji-qiang-hua/tong-yong-qiang-hua/README.md)
