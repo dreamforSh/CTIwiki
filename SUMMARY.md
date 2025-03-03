@@ -103,5 +103,7 @@
     * [交互能力](jiang-hun-qiang-hua/neng-li-qiang-hua/jiao-hu-neng-li.md)
   * [无槽位强化](jiang-hun-qiang-hua/wu-cao-wei-qiang-hua.md)
   * [盔甲强化](jiang-hun-qiang-hua/kui-jia-qiang-hua.md)
+* [整合包外部教程与攻略](zheng-he-bao-wai-bu-jiao-cheng-yu-gong-le/README.md)
+  * [CTI中压力室的AE自动化方案](zheng-he-bao-wai-bu-jiao-cheng-yu-gong-le/cti-zhong-ya-li-shi-de-ae-zi-dong-hua-fang-an.md)
 * [FQA](fqa.md)
 * [许可-License](xu-ke-license.md)
