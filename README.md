@@ -38,8 +38,6 @@ _<mark style="color:red;">**官方QQ群（闲聊）：**</mark><mark style="colo
 在此为本Wiki提交贡献
 {% endembed %}
 
-b
-
 {% embed url="https://started.ink/?ref=xinian" %}
 面板服务器购买推荐，优惠码:24cti
 {% endembed %}
