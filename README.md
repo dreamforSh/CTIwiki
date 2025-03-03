@@ -38,10 +38,6 @@ _<mark style="color:red;">**官方QQ群（闲聊）：**</mark><mark style="colo
 在此为本Wiki提交贡献
 {% endembed %}
 
-{% embed url="https://started.ink/?ref=xinian" %}
-面板服务器购买推荐，优惠码:24cti
-{% endembed %}
-
 **简介：**
 
 本整合包是以[匠魂3](https://www.mcmod.cn/class/3725.html)为核心开发的的<mark style="color:red;">**中高度魔改**</mark>以科技侧为主要游玩维度的整合包。
@@ -55,3 +51,14 @@ _<mark style="color:red;">**官方QQ群（闲聊）：**</mark><mark style="colo
 
 
 _<mark style="color:red;background-color:yellow;">本站开源地址：</mark>_[_<mark style="color:red;background-color:yellow;">https://github.com/dreamforSh/CTIwiki</mark>_](https://github.com/dreamforSh/CTIwiki)
+
+
+
+***
+
+
+
+{% embed url="https://started.ink/?ref=xinian" %}
+面板服务器购买推荐，优惠码：24cti
+{% endembed %}
+
