@@ -21,7 +21,7 @@
 
 <details>
 
-<summary></summary>
+<summary>游戏一直卡在加载界面</summary>
 
 \
 尝试去 [官网](https://www.minecraft.net/zh-hans/login) 重新登录或重启电脑，具体原因不明，推测是JVM的调用问题。如果都无效可以多等一会，一般最多五分钟左右可以加载出游戏窗口
