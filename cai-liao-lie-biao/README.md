@@ -8,6 +8,6 @@ description: 匠魂材料一览
 
 [_二级材料_](../materials_list/secondary_materials/)
 
-[_三级材料_](san-ji-cai-liao/)
+[_三级材料_](../materials_list/tertiary_materials/)
 
-[_四级材料_](si-ji-cai-liao/)
+[_四级材料_](../materials_list/quaternary_materials/)
