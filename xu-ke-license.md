@@ -1,5 +1,5 @@
 ---
-description: 本许可使用CC-BY-NC-ND4.0并进行规范化说明
+description: 本许可使用并进行规范化说明
 layout:
   title:
     visible: true
@@ -15,7 +15,7 @@ layout:
 
 # 许可-License
 
-_**您可以自由地：**_
+### _您可以自由地：_ <a href="#rights" id="rights"></a>
 
 **分享**— 以任何媒体或格式复制和重新分发我们的作品，前提是您不公开分发我们的作品，我们认可您与您的朋友分享和游玩。
 
