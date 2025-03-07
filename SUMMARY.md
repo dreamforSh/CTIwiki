@@ -402,4 +402,4 @@
   * [CTI中压力室的AE自动化方案](zheng-he-bao-wai-bu-jiao-cheng-yu-gong-le/cti-zhong-ya-li-shi-de-ae-zi-dong-hua-fang-an.md)
   * [一些比较干燥的冶金灌注机自动化教学](zheng-he-bao-wai-bu-jiao-cheng-yu-gong-le/yi-xie-bi-jiao-gan-zao-de-ye-jin-guan-zhu-ji-zi-dong-hua-jiao-xue.md)
 * [FQA](fqa.md)
-* [许可-License](xu-ke-license.md)
+* [许可-License](cti-license.md)
