@@ -28,9 +28,15 @@ _**开发版本**_  _Minecraft 1.19.2 forge 43.4.2   类型：modpack  目前状
 
 
 
-{% embed url="https://bbsmc.net/modpack/cti" %}
+{% embed url="https://bbsmc.net/modpack/cti" fullWidth="true" %}
+客户端下载
+{% endembed %}
 
-[_**点此下载**_](https://bbsmc.net/modpack/cti) _**(客户端)**_           [_**服务端下载**_](https://xinian.usells.com/p/YOmKVC)
+{% embed url="https://xinian.usells.com/p/YOmKVC" %}
+服务端下载
+{% endembed %}
+
+&#x20;     &#x20;
 
 _<mark style="color:red;">**官方QQ群（闲聊）：**</mark><mark style="color:red;">761155624</mark>_             _<mark style="color:red;">**答疑群**</mark><mark style="color:red;">：698798364</mark>_
 
@@ -83,7 +89,7 @@ _<mark style="color:red;background-color:yellow;">本站开源地址：</mark>_[
 
 
 
-{% embed url="https://started.ink/?ref=xinian" %}
+{% embed url="https://started.ink/?ref=xinian" fullWidth="true" %}
 面板服务器购买推荐，优惠码：24cti
 {% endembed %}
 
