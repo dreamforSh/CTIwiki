@@ -32,7 +32,7 @@ _**开发版本**_  _Minecraft 1.19.2 forge 43.4.2   类型：modpack  目前状
 客户端下载
 {% endembed %}
 
-{% embed url="https://xinian.usells.com/p/YOmKVC" %}
+{% embed url="https://xinian.usells.com/p/YOmKVC" fullWidth="true" %}
 服务端下载
 {% endembed %}
 
