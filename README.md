@@ -5,7 +5,7 @@ coverY: 0
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
@@ -18,11 +18,17 @@ layout:
     visible: true
 ---
 
-# 中文维基
+# ©️ 中文维基
+
+
 
 [**工匠：技艺革新**](https://www.mcmod.cn/modpack/989.html)    _**英文名：**&#x43;onstrut：Technological Innovation_   简称：CTI
 
 _**开发版本**_  _Minecraft 1.19.2 forge 43.4.2   类型：modpack  目前状态：0.35 测试版_       [_<mark style="color:purple;">**历史版本**</mark>_](https://bbsmc.net/modpack/cti/versions)
+
+
+
+{% embed url="https://bbsmc.net/modpack/cti" %}
 
 [_**点此下载**_](https://bbsmc.net/modpack/cti) _**(客户端)**_           [_**服务端下载**_](https://xinian.usells.com/p/YOmKVC)
 

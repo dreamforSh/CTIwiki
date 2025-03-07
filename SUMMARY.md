@@ -1,6 +1,6 @@
 # Table of contents
 
-* [中文维基](README.md)
+* [©️ 中文维基](README.md)
 * [更新日志](changelog/README.md)
   * [0.35](changelog/0.35.md)
 * [模组列表](modlist.md)
