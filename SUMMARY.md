@@ -403,3 +403,4 @@
   * [一些比较干燥的冶金灌注机自动化教学](zheng-he-bao-wai-bu-jiao-cheng-yu-gong-le/yi-xie-bi-jiao-gan-zao-de-ye-jin-guan-zhu-ji-zi-dong-hua-jiao-xue.md)
 * [FQA](fqa.md)
 * [许可-License](xu-ke-license.md)
+* [开发测试页](kai-fa-ce-shi-ye.md)
