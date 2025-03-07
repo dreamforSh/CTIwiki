@@ -30,13 +30,9 @@ _<mark style="color:red;">**官方QQ群（闲聊）：**</mark><mark style="colo
 
 <mark style="color:red;">**本wiki正在积极更新，如果想为此wiki反馈问题请在此提交issue ：**</mark>
 
-{% embed url="https://github.com/dreamforSh/CTIwiki/issues" %}
-在此反馈问题
-{% endembed %}
+{% @github-files/github-code-block url="https://github.com/dreamforSh/CTIwiki/issues" %}
 
-{% embed url="https://github.com/dreamforSh/CTIwiki/pulls" %}
-在此为本Wiki提交贡献
-{% endembed %}
+{% @github-files/github-code-block url="https://github.com/dreamforSh/CTIwiki/pulls" %}
 
 **简介：**
 
