@@ -15,9 +15,7 @@ layout:
 
 # 许可-License
 
-### 作品代指：我们团队\[CTItem]创建的mod，modpack，assets <a href="#rights" id="rights"></a>
-
-### 您可以自由地： <a href="#rights" id="rights"></a>
+_**您可以自由地：**_
 
 **分享**— 以任何媒体或格式复制和重新分发我们的作品，前提是您不公开分发我们的作品，我们认可您与您的朋友分享和游玩。
 
@@ -34,6 +32,10 @@ layout:
 4.您不得限制他人获得我们作品，包括但不限于付费下载（此举同样违反第二条）。
 
 
+
+{% hint style="info" %}
+### 作品代指：我们团队\[CTItem]创建的mod，modpack，assets。 <a href="#rights" id="rights"></a>
+{% endhint %}
 
 {% hint style="danger" %}
 _**此协议不为任何人提供许可或授权，您使用或游玩我们的作品意味着同意此协议，同时同意**_[_**eula协议**_](https://www.minecraft.net/zh-hans/eula)_**。**_
