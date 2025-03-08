@@ -27,7 +27,7 @@ _JVM调优的目的是为了提高性能，优化资源利用，并增强应用�
 以HMCL为例
 
 {% hint style="danger" %}
-q
+_<mark style="color:red;">**请打开版本隔离，以及启用版本特定游戏设置，并备份。**</mark>_
 {% endhint %}
 
 _在版本管理中下拉找到<mark style="color:red;">**编辑高级设置（图1）。**</mark>_
