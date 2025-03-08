@@ -36,15 +36,15 @@ _<mark style="color:red;">**请打开版本隔离，以及启用版本特定游�
 
 _在版本管理中下拉找到<mark style="color:red;">**编辑高级设置（图1）。**</mark>_
 
-<figure><img src="../.gitbook/assets/屏幕截图 2025-03-08 141814.png" alt=""><figcaption><p>图1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/屏幕截图 2025-03-08 141814.png" alt=""><figcaption><p>图1</p></figcaption></figure>
 
 打开编辑高级设置，下拉找&#x5230;_<mark style="color:red;">**java虚拟机设置**</mark>_
 
-<figure><img src="../.gitbook/assets/屏幕截图 2025-03-08 142145.png" alt=""><figcaption><p>图2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/屏幕截图 2025-03-08 142145.png" alt=""><figcaption><p>图2</p></figcaption></figure>
 
 _<mark style="color:red;">**在java虚拟机参数一栏添加JVM参数 ，下拉。**</mark>_
 
-<figure><img src="../.gitbook/assets/屏幕截图 2025-03-08 142451.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/屏幕截图 2025-03-08 142451.png" alt=""><figcaption></figcaption></figure>
 
 勾选不添加默认的JVM参数，退出即完成了添加。
 
