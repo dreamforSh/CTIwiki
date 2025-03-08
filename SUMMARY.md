@@ -401,5 +401,6 @@
 * [整合包外部教程与攻略](tutorial/README.md)
   * [CTI中压力室的AE自动化方案](tutorial/cti_ae_automation_pressurechamber.md)
   * [一些比较干燥的冶金灌注机自动化教学](tutorial/yi-xie-bi-jiao-gan-zao-de-ye-jin-guan-zhu-ji-zi-dong-hua-jiao-xue.md)
+  * [通过jvm优化整合包](tutorial/tong-guo-jvm-you-hua-zheng-he-bao.md)
 * [FQA](fqa.md)
 * [许可-License](xu-ke-license.md)
