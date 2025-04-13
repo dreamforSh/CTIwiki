@@ -1,9 +1,10 @@
 # Table of contents
 
-* [©️ ©️ 中文维基](README.md)
+* [©️ 中文维基](README.md)
 * [更新日志](changelog/README.md)
   * [0.35](changelog/0.35.md)
   * [0.35a](changelog/0.35a.md)
+  * [0.35c](changelog/0.35c.md)
 * [模组列表](modlist.md)
 * [🍏 材料列表](cai-liao-lie-biao/README.md)
   * [一级材料](cai-liao-lie-biao/yi-ji-cai-liao/README.md)
