@@ -406,5 +406,6 @@
   * [一些比较干燥的冶金灌注机自动化教学](tutorial/yi-xie-bi-jiao-gan-zao-de-ye-jin-guan-zhu-ji-zi-dong-hua-jiao-xue.md)
   * [通过jvm优化整合包(双端)](tutorial/jvm_optimization/README.md)
     * [JVM参数](tutorial/jvm_optimization/jvm-can-shu.md)
+  * [测评永无止境？](tutorial/ce-ping-yong-wu-zhi-jing.md)
 * [FQA](fqa.md)
 * [License](xu-ke-license.md)
