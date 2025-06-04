@@ -407,4 +407,4 @@
   * [通过jvm优化整合包(双端)](tutorial/jvm_optimization/README.md)
     * [JVM参数](tutorial/jvm_optimization/jvm-can-shu.md)
 * [FQA](fqa.md)
-* [License](xu-ke-license.md)
+* [License](license.md)
